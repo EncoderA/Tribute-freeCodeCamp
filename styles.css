@@ -49,3 +49,19 @@ blockquote {
     margin: 0 auto 50px auto;
     text-align: left;
 }
+
+a:visited{
+  color: #74638f;
+}
+
+a{
+  color: #477ca7;
+}
+
+section {
+  display-block;
+}
+
+* {
+  font-size: 10px;
+}
